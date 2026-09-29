@@ -32,7 +32,7 @@ The project is an independent personal tool. It does not represent endorsement b
 
 The operator may revise the setup and these terms. The date above identifies the current document version.
 
-Contact: **YOUR_CONTACT_EMAIL**.
+Contact: **alexander.kochanov@gmail.com**.
 
 - [Oura API agreement](https://cloud.ouraring.com/legal/api-agreement)
 - [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
