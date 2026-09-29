@@ -6,7 +6,7 @@ Last updated: 29 September 2026.
 
 The operator is the individual who owns this documentation repository, the connected Oura account, and the private GitHub repository used for the project. The operator and the sole data subject are the same person.
 
-Contact: **YOUR_CONTACT_EMAIL**.
+Contact: **alexander.kochanov@gmail.com**.
 
 This policy describes the personal setup documented in this repository. The project is not open for other people to connect their accounts.
 
