@@ -18,7 +18,7 @@ The integration is being configured. The project scope and conditions are descri
 
 - [Privacy Policy](PRIVACY.md)
 - [Terms of Service](TERMS.md)
-- Contact: **YOUR_CONTACT_EMAIL**
+- Contact: **alexander.kochanov@gmail.com**
 
 This is an independent personal project and is not an official Oura or GitHub product.
 
